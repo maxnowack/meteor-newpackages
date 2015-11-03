@@ -14,5 +14,5 @@
       git: $first: '$git'
   }
   {$sort: 'published': -1},
-  {$limit: 100},
+  {$limit: 30},
 ]
