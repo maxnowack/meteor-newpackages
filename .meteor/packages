@@ -22,3 +22,9 @@ react
 check
 meteorhacks:aggregate
 momentjs:moment
+cfs:http-methods
+meteorhacks:npm
+
+
+npm-container
+markdown
